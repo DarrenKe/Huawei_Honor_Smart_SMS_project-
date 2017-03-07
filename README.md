@@ -8,4 +8,7 @@ as a "credit card payment message class" and will provide users with "one key to
 One more example, when you recieved a confermed-flight-booking message, the SDK will classify it as "Flight Booking" message 
 and will provide you with destination hotel service, destination map service and resturant service for your destination.
 
- 
+This project has been embeded into almost all newest android mobile phones like Huawei, Sumsung, Lenovo, Meizu, Sumsung Galaxy Gear, 360 and so on. Currently the users embeded with this function is more than 500 million.
+
+Due to aggrement with the company, no code will be shared.
+
