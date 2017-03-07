@@ -1,5 +1,5 @@
 # Huawei_Honor_Smart_SMS_project
-This project is build a Smart SMS SDK based on sentimental analysis of the original message text
+This project is to build a Smart SMS SDK based on sentimental analysis of the original message text
 to provide intelligent service related to the message. Moreover, the original message will be displayed 
 as a more beautiful and intuitive user interface.
 
