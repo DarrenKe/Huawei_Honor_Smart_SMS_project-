@@ -1,7 +1,6 @@
 # Huawei_Honor_Smart_SMS_project
 
-# demo video 
-https://drive.google.com/file/d/0B50lz73BWWg-c0paZEY3UXlSTFk/view?usp=sharing
+# demo video https://drive.google.com/file/d/0B50lz73BWWg-c0paZEY3UXlSTFk/view?usp=sharing
 This project is to build a Smart SMS SDK based on sentimental analysis on the original message text
 to provide intelligent services related to that message. Moreover, the original message will be displayed 
 with a more beautiful and intuitive user interface.
