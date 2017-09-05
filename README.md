@@ -1,7 +1,7 @@
 # Huawei_Honor_Smart_SMS_project
 
 # real product video https://drive.google.com/file/d/0B50lz73BWWg-c0paZEY3UXlSTFk/view?usp=sharing
-This project is to build a Smart SMS SDK based on sentimental analysis on the original message textto provide intelligent services related to that message. Moreover, the original message will be converted into  a more beautiful and intuitive user interface without losing key information.
+This project is to build a Smart SMS SDK based on sentimental analysis on the original message text to provide intelligent services related to that message. Moreover, the original message will be converted into a beautiful and intuitive user interface without losing key information.
 
 For example, when a user recieves a credit card payment message, the SDK will automatically recognize it as a "credit card payment" category and the raw text will be converted into a table with bank name, payment amount, due time, so that a user can quikly figure out what the message is about. Further, a service prediction engine will provide "one key to pay" service button for this message, which extreamly facilites the payment process. 
 One more example, when a user recieves a flight ticket confirming message, the SDK will classify it as "Flight Booking" category 
